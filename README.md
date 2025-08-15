@@ -1,3 +1,9 @@
+
+
+<img width="500" height="500" alt="9g" src="https://github.com/user-attachments/assets/2a8ecfad-75cb-4d71-8531-d6f9666dd5c0" />
+
+
+
 Amigo secreto
 En este desafío, desarrollarás una aplicación que permita a los usuarios ingresar nombres de amigos en una lista para luego realizar un sorteo aleatorio y determinar quién es el "amigo secreto".
 
@@ -9,5 +15,6 @@ Agregar nombres: Los usuarios escribirán el nombre de un amigo en un campo de t
 Validar entrada: Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 
 Visualizar la lista: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
+
 
 Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
